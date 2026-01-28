@@ -19,7 +19,7 @@ def index_post():
     target_language = request.form['language']
 
     # Translator API credentials
-    key = "94a5ad7bbedd4e6f833ec571c6d4b8a3"
+    key = "8DfZONdICWMhbwlKQ1zei3FYA73eJhu91bh4SezHZh09CBxelNWRJQQJ99CAACYeBjFXJ3w3AAAbACOGbCWv"
     endpoint = "https://api.cognitive.microsofttranslator.com/"
     location = "eastus"
 
